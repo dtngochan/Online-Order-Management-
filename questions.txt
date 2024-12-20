@@ -1,0 +1,5 @@
+What is the capital of France?|Paris|London|Berlin|Madrid|A
+Who wrote 'Hamlet'?|Charles Dickens|William Shakespeare|Mark Twain|Leo Tolstoy|B
+Which planet is known as the Red Planet?|Earth|Mars|Venus|Jupiter|B
+What is the square root of 64?|6|7|8|9|C
+Which ocean is the largest?|Atlantic|Indian|Arctic|Pacific|D
